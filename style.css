@@ -21,7 +21,7 @@
 }
 #details{
   width: max-content;
-  color: blue;
+  color: #330099;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 #buttons{
@@ -37,7 +37,7 @@ button{
   font-size: large;
 }
 button:hover{
-  background-color: #00B7C3;
+  background-color: #00796B;
   color: white;
   border-radius: 10px;
 }
@@ -46,7 +46,7 @@ button:hover{
 #header{
   color: rgb(45, 41, 41)  ;
   height: fit-content;
-  background: radial-gradient(#afccae, #b6b885, #62965a);
+  background: #F4F6F6;
   width: 100%;
   margin-top: 50px;
 }
@@ -172,7 +172,7 @@ td{
 }
 th#main{
   font-size: x-large;
-  background-color: rgb(185, 244, 185);
+  background-color: #F4F6F6;
 }
 th{
   font-size: 23px;
