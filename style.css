@@ -96,12 +96,12 @@ button:hover{
 
 /* content css */
 #content{
-  background-color: #00FFF0 ;
+  background-color: #00FFF0;
   padding: 20px;
   padding-top: 0px;
 }
 .center-heading{
-  color: #197b08;
+  color: #FF0099;
   font-size: 28px;
 }
 .side-headings{
