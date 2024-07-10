@@ -96,7 +96,7 @@ button:hover{
 
 /* content css */
 #content{
-  background-color:  #00FFF0;
+  background-color: #00FFF0 ;
   padding: 20px;
   padding-top: 0px;
 }
@@ -201,7 +201,7 @@ tr:hover{
 /* footer css */
 footer{
   padding: 50px;
-  background-color: black;
+  background-color: #566573;
   color: white;
   font-size: larger;
 }
