@@ -20,6 +20,13 @@ function scrollToPosition(csp) {
         section.scrollIntoView({ behavior: 'smooth'});
     }
 }
+  //About
+function scrollToPosition(ABOUT) {
+    var section = document.getElementById(about);
+    if (section) {
+        section.scrollIntoView({ behavior: 'smooth'});
+    }
+}
     //contact button
 function scrollToPosition(contact) {
     var section = document.getElementById(contact);
